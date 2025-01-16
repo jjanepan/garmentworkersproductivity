@@ -1,7 +1,3 @@
-# garmentworkersproductivity
-
-
-Here's a concise and informative GitHub repository description for your project on analyzing and predicting productivity in the garment industry:
 
 Garment Workers Productivity Analysis
 Overview
