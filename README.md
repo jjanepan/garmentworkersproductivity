@@ -1,6 +1,7 @@
 
-Garment Workers Productivity Analysis
-Overview
+Garment Workers Productivity Analysis:
+
+
 This repository contains the analysis and predictive modeling of garment worker productivity using a dataset from Bangladesh. The goal is to uncover insights that could enhance efficiency and support fair labor practices in the garment industry, which is notorious for low wages and challenging working conditions.
 
 Dataset
