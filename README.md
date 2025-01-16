@@ -26,4 +26,3 @@ Continue leveraging Random Forest for its superior predictive power and robustne
 Tools Used
 Python: For all data cleaning, processing, and modeling.
 Libraries: Pandas, Scikit-learn, Matplotlib for data manipulation, modeling, and visualization.
-Google Colab: Used for executing code and managing computational resources.
